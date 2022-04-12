@@ -8,3 +8,5 @@ auladealgoritimo
 <p>https://scratch.mit.edu/projects/671447929
 <p>alfandega
 <p>https://scratch.mit.edu/projects/663832776
+<p>jogo do chikinitu
+<p>https://scratch.mit.edu/projects/674900105
