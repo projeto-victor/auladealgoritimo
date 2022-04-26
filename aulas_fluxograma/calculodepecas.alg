@@ -1,14 +1,13 @@
 algoritmo "calculopeca"
-// Função :
-// Autor :
+// FunÃ§Ã£o :  calcular o valor de determinada quantidade de pecas
+// Autor :   Victor Marques
 // Data : 26/04/2022
-// Seção de Declarações 
 var
 valor,qtde,total:real
 inicio
-escreval("Digite a quantidade de peças compradas:")
+escreval("Digite a quantidade de peÃ§as compradas:")
 leia(qtde)
-escreval("Digite o valor de cada peça")
+escreval("Digite o valor de cada peÃ§a")
 leia(valor)
 //processamento
 total<-valor*qtde
